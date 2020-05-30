@@ -1,3 +1,6 @@
 Welcome to this page.
 
 Signup
+
+signIn
+Forger password
