@@ -3,6 +3,10 @@ Welcome to this page.
 Signup
 
 signIn
-Forger password
+Forgot password
+
+remember password
+reset password
+change user name
 
 Thank you
